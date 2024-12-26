@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MagicHealthSuite">
+  <test name="Test" thread-count="5">
+    <classes>
+      <class name="test.MagicHealthTestcases">
+        <methods>
+          <include name="TC_001_Verifying_Click_on_Home_Button_on_Landing_Page_USER" />
+          <include name="TC_002_Verifying_Click_on_Explore_Solutions_Button_on_Home_Page_USER" />
+          <include name="TC_003_Verifying_Navigation_to_the_Request_Demo_In_HomePage_USER" />
+          <include name="TC_004_Verifying_Navigation_to_the_Request_Demo_at_ContactUs_Form_In_HomePage_USER" />
+          <include name="TC_005_Verifying_Explore_Our_Solutions_Button_Functionality_USER" />
+          <include name="TC_006_Verifying_Click_on_Product_Button_on_Landing_Page_Functionality_USER" />
+          <include name="TC_007_Verifying_Navigation_to_the_Request_Demo_In_Products_Page_USER"/>
+          <include name="TC_008_Verifying_Navigation_to_the_Request_Demo_at_ContactUs_Form_In_Products_Page_USER"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite> <!-- MagicHealthSuite -->
+

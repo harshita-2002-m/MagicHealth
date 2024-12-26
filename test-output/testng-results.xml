@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-27T02:48:15 IST" name="MagicHealthSuite" finished-at="2024-12-27T02:49:22 IST" duration-ms="66909">
+    <groups>
+    </groups>
+    <test started-at="2024-12-27T02:48:15 IST" name="Test" finished-at="2024-12-27T02:49:22 IST" duration-ms="66909">
+      <class name="test.MagicHealthTestcases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:15 IST" name="setup" finished-at="2024-12-27T02:48:23 IST" duration-ms="8407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:23 IST" name="setUp" finished-at="2024-12-27T02:48:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_001_Verifying_Click_on_Home_Button_on_Landing_Page_USER()[pri:1, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:23 IST" name="TC_001_Verifying_Click_on_Home_Button_on_Landing_Page_USER" finished-at="2024-12-27T02:48:24 IST" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_Verifying_Click_on_Home_Button_on_Landing_Page_USER -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:24 IST" name="teardown" finished-at="2024-12-27T02:48:24 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:24 IST" name="setup" finished-at="2024-12-27T02:48:29 IST" duration-ms="5159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_002_Verifying_Click_on_Explore_Solutions_Button_on_Home_Page_USER()[pri:2, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:29 IST" name="TC_002_Verifying_Click_on_Explore_Solutions_Button_on_Home_Page_USER" finished-at="2024-12-27T02:48:31 IST" duration-ms="2331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002_Verifying_Click_on_Explore_Solutions_Button_on_Home_Page_USER -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:29 IST" name="setUp" finished-at="2024-12-27T02:48:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:31 IST" name="teardown" finished-at="2024-12-27T02:48:32 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:32 IST" name="setup" finished-at="2024-12-27T02:48:37 IST" duration-ms="5189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_003_Verifying_Navigation_to_the_Request_Demo_In_HomePage_USER()[pri:3, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:37 IST" name="TC_003_Verifying_Navigation_to_the_Request_Demo_In_HomePage_USER" finished-at="2024-12-27T02:48:37 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003_Verifying_Navigation_to_the_Request_Demo_In_HomePage_USER -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:37 IST" name="setUp" finished-at="2024-12-27T02:48:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:37 IST" name="teardown" finished-at="2024-12-27T02:48:37 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:37 IST" name="setup" finished-at="2024-12-27T02:48:42 IST" duration-ms="5096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_004_Verifying_Navigation_to_the_Request_Demo_at_ContactUs_Form_In_HomePage_USER()[pri:4, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:42 IST" name="TC_004_Verifying_Navigation_to_the_Request_Demo_at_ContactUs_Form_In_HomePage_USER" finished-at="2024-12-27T02:48:48 IST" duration-ms="5546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_004_Verifying_Navigation_to_the_Request_Demo_at_ContactUs_Form_In_HomePage_USER -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:42 IST" name="setUp" finished-at="2024-12-27T02:48:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:48 IST" name="teardown" finished-at="2024-12-27T02:48:48 IST" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:48 IST" name="setup" finished-at="2024-12-27T02:48:53 IST" duration-ms="5026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:53 IST" name="setUp" finished-at="2024-12-27T02:48:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_005_Verifying_Explore_Our_Solutions_Button_Functionality_USER()[pri:5, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:53 IST" name="TC_005_Verifying_Explore_Our_Solutions_Button_Functionality_USER" finished-at="2024-12-27T02:48:55 IST" duration-ms="1720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_005_Verifying_Explore_Our_Solutions_Button_Functionality_USER -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:55 IST" name="teardown" finished-at="2024-12-27T02:48:55 IST" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:48:55 IST" name="setup" finished-at="2024-12-27T02:49:01 IST" duration-ms="5342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:49:01 IST" name="setUp" finished-at="2024-12-27T02:49:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_006_Verifying_Click_on_Product_Button_on_Landing_Page_Functionality_USER()[pri:6, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:49:01 IST" name="TC_006_Verifying_Click_on_Product_Button_on_Landing_Page_Functionality_USER" finished-at="2024-12-27T02:49:02 IST" duration-ms="1614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_006_Verifying_Click_on_Product_Button_on_Landing_Page_Functionality_USER -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:49:02 IST" name="teardown" finished-at="2024-12-27T02:49:02 IST" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:49:02 IST" name="setup" finished-at="2024-12-27T02:49:08 IST" duration-ms="5934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_007_Verifying_Navigation_to_the_Request_Demo_In_Products_Page_USER()[pri:7, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:49:08 IST" name="TC_007_Verifying_Navigation_to_the_Request_Demo_In_Products_Page_USER" finished-at="2024-12-27T02:49:10 IST" duration-ms="1228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_007_Verifying_Navigation_to_the_Request_Demo_In_Products_Page_USER -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:49:08 IST" name="setUp" finished-at="2024-12-27T02:49:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:49:10 IST" name="teardown" finished-at="2024-12-27T02:49:10 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:49:10 IST" name="setup" finished-at="2024-12-27T02:49:15 IST" duration-ms="5168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:49:15 IST" name="setUp" finished-at="2024-12-27T02:49:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_008_Verifying_Navigation_to_the_Request_Demo_at_ContactUs_Form_In_Products_Page_USER()[pri:8, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:49:15 IST" name="TC_008_Verifying_Navigation_to_the_Request_Demo_at_ContactUs_Form_In_Products_Page_USER" finished-at="2024-12-27T02:49:22 IST" duration-ms="6495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_008_Verifying_Navigation_to_the_Request_Demo_at_ContactUs_Form_In_Products_Page_USER -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.MagicHealthTestcases@752325ad]" started-at="2024-12-27T02:49:22 IST" name="teardown" finished-at="2024-12-27T02:49:22 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.MagicHealthTestcases -->
+    </test> <!-- Test -->
+  </suite> <!-- MagicHealthSuite -->
+</testng-results>
